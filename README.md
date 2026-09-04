@@ -111,7 +111,8 @@ flowchart LR
     RESP --> F
 
     DB -->|GET /transactions| F
-    
+
+
 ## 🛠️ Technology Stack
 
 ### Frontend
