@@ -1,0 +1,10 @@
+.idea/
+target/
+*.class
+_pycache_/
+*.pyc
+data/
+*.db
+*.mv.db
+*.trace.db
+.env
